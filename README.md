@@ -1,6 +1,6 @@
 # Birth Rate Time Series Forecasting
 
-This repository contains a time series forecasting project that predicts daily birth rates using historical data. The project demonstrates the application of statistical models to predict future birth rates, which can be valuable for healthcare planning, resource allocation, and overall hospital management.
+This project contains a time series forecasting model that predicts daily birth rates using historical data. The project demonstrates the application of statistical models to predict future birth rates, which can be valuable for healthcare planning, resource allocation, and overall hospital management.
 
 ## Table of Contents
 
