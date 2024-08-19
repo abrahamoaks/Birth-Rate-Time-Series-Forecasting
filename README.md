@@ -33,7 +33,7 @@ The dataset used in this project contains daily birth rates from the year 2015. 
 
 ### Data Preprocessing
 
-The dataset is cleaned and prepared by:
+The dataset was cleaned and prepared by:
 - Setting the `date` column as the index.
 - Resampling and visualizing the data to understand trends and patterns.
 
