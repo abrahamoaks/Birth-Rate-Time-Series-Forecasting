@@ -89,6 +89,12 @@ The model is evaluated using the Root Mean Squared Error (RMSE) metric to assess
 - **Naive Forecasting**: As a baseline, the model is compared to a naive approach where the previous day's birth rate is used as the prediction.
 - **ARIMA Model Performance**: The ARIMA model's predictions are shown to have a lower RMSE than the naive method, indicating better performance.
 
+## Observations
+
+- **Seasonal Trends**: Birth rates exhibit seasonal patterns, with certain times of the year showing higher or lower birth rates.
+- **Model Performance**: The ARIMA model provided a good fit for the data, outperforming the naive method.
+- **Data Sensitivity**: The model's performance could be further improved with more extensive data covering multiple years.
+
 ## Results
 
 The results show the effectiveness of the ARIMA model in forecasting birth rates:
@@ -96,18 +102,13 @@ The results show the effectiveness of the ARIMA model in forecasting birth rates
 - **Predictions**: The model successfully predicts daily birth rates with reasonable accuracy.
 - **Error Analysis**: The RMSE for the ARIMA model is significantly lower than the naive method, demonstrating its capability in handling time series data.
 
+
 ## Usefulness
 
 This project highlights the importance of time series forecasting in healthcare:
 
 - **Resource Planning**: Accurate birth rate forecasts can help hospitals plan resources, such as staffing and equipment, more effectively.
 - **Operational Efficiency**: Predictive analytics can improve decision-making processes in healthcare management.
-
-## Observations
-
-- **Seasonal Trends**: Birth rates exhibit seasonal patterns, with certain times of the year showing higher or lower birth rates.
-- **Model Performance**: The ARIMA model provided a good fit for the data, outperforming the naive method.
-- **Data Sensitivity**: The model's performance could be further improved with more extensive data covering multiple years.
 
 ## Future Contributions
 
