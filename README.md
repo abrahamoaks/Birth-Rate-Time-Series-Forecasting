@@ -1,4 +1,4 @@
-# Birth Rate Time Series Forecasting
+# Birth Rate Time Series Forecasting -- Abraham Obianke 
 
 This project involves forecasting daily birth rates using historical data, demonstrating the application of time series analysis and statistical models. The goal is to predict future birth rates, which can be valuable for healthcare planning, resource allocation, and overall hospital management.
 
