@@ -54,8 +54,8 @@ To run this project locally, you'll need to set up a Python environment with the
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/birth-rate-forecasting.git](https://github.com/abrahamoaks/Birth-Rate-Time-Series-Forecasting/blob/main/README.md)
-   cd birth-rate-forecasting
+   git clone [(https://github.com/abrahamoaks/Birth-Rate-Time-Series-Forecasting/blob/main/README.md)
+   cd birth-rate-forecasting]
    ```
 
 2. **Install Dependencies:**
