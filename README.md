@@ -17,8 +17,6 @@ This project involves forecasting daily birth rates using historical data, demon
 - [Observations](#observations)
 - [Future Contributions](#future-contributions)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
